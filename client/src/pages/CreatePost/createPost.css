@@ -1,0 +1,57 @@
+.create__post__container {
+  padding: 5% 20%;
+}
+textarea {
+  width: 100%;
+  resize: none;
+  padding: 1% 2%;
+  outline: none;
+  margin-bottom: 20px;
+}
+.label {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.title__textarea {
+  font-size: 25px;
+  font-weight: 800;
+  height: 80px;
+}
+.description__textarea {
+  font-size: 21px;
+  height: 150px;
+  font-weight: 600;
+}
+.body__textarea {
+  border: 1px solid black;
+  padding: 2%;
+}
+.rdw-embedded-modal {
+  height: auto;
+}
+.rdw-editor-main {
+  height: 500px;
+  margin: 20px 0;
+}
+.DraftEditor-root {
+  height: 90%;
+}
+.rdw-image-modal-upload-option {
+  font-size: 10px;
+}
+
+.rdw-image-imagewrapper > img {
+  max-height: 100% !important;
+  max-width: 100% !important;
+}
+.rdw-image-modal-size-input {
+  padding-left: 10px;
+}
+.rdw-image-alignment-options-popup {
+  justify-content: space-between;
+}
+.rdw-option-wrapper {
+  height: 25px;
+  width: 25px;
+}
